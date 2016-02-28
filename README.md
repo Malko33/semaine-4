@@ -1,2 +1,3 @@
 # semaine-4
-Badges Ruby + Openfoodfacts
+Badges Ruby : https://www.codecademy.com/users/cucrapok/achievements
+Openfoodfacts
